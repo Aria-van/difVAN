@@ -1,2 +1,2 @@
 # difVAN
-difVAN Engine
+difVAN Game Engine
